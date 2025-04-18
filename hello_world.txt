@@ -1,1 +1,2 @@
 Im learning Git with The Odin Project!
+I did commit with VSCode
